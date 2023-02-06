@@ -1,0 +1,14 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:gray;
+}
+.content .main-title { /* Tried to mess around with it, either had it where it was bold and not centered or not bold and centered*/
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    font-weight:bolder;
+}
+content {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom:12px;
+    font-weight:bolder;
+}
